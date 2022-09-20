@@ -1,0 +1,15 @@
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\Checkpoint1.exe
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\Checkpoint1.deps.json
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\Checkpoint1.runtimeconfig.json
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\Checkpoint1.dll
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\ref\Checkpoint1.dll
+C:\Users\Kirill\Desktop\Checkpoint1\bin\Debug\net6.0\Checkpoint1.pdb
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.dll
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\ref\Checkpoint1.dll
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.pdb
+C:\Users\Kirill\Desktop\Checkpoint1\obj\Debug\net6.0\Checkpoint1.genruntimeconfig.cache
